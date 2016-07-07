@@ -1,0 +1,10 @@
+.chat-wrapper{
+	position:fixed;
+	width:100%;
+	bottom:0;
+}
+
+.optn-palette-wrapper{
+	position:fixed;
+	top:45px;
+}

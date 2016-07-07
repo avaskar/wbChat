@@ -1,0 +1,9 @@
+{
+  "name": "wbChat",
+  "version": "0.0.1",
+  "description": "wbChat is a in-development collaborative chat and drawing application",
+  "dependencies": {
+    "express": "^4.14.0",
+    "semantic-ui": "^2.2.1"
+  }
+}
